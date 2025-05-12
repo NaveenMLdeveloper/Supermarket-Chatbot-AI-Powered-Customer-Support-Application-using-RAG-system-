@@ -1,6 +1,4 @@
-Here is a clean and professional **README.md** for your **Supermarket Chatbot** project, formatted properly with **headings, bold, icons, and code blocks** — ready to upload on GitHub:
 
----
 
 # 🛒 Supermarket Chatbot
 
@@ -199,9 +197,6 @@ http://localhost:5000
 ## 📞 Contact
 
 Developed by: **Naveen Kumar**
-📧 naveenpalani75@
+📧 naveenpalani75@gmail.com
 
----
 
-Would you also like me to generate a **professional-looking workflow diagram (PNG)** for your `workflow_diagram.png`?
-If yes, just say **"Yes, diagram."**
