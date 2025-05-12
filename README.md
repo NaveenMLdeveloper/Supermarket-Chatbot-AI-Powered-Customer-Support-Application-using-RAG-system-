@@ -1,5 +1,5 @@
-Supermarket Chatbot
-A Retrieval-Augmented Generation (RAG) based chatbot for supermarket customer support.
+**Supermarket Chatbot**
+**A Retrieval-Augmented Generation (RAG) based chatbot for supermarket customer support.**
 📜 Project Overview
 The Supermarket Chatbot is a web-based application designed to assist supermarket customers by answering queries about product availability, prices, stock quantities, and categories. It uses natural language processing (NLP) to understand customer queries and provides friendly, concise responses. The chatbot leverages a Retrieval-Augmented Generation (RAG) pipeline to retrieve relevant product information from a MySQL database and generate responses using the DeepSeek V3 0324 (free) model via OpenRouter.
 Purpose
